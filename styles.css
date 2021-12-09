@@ -46,6 +46,8 @@ a:hover {
     height: 350px;
     display: block;
     border: 4px solid #334d43;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p {
@@ -62,11 +64,11 @@ p {
     width: 60%;
 }
 
-a {
+.assignment a {
     color: #a8bccc;
     text-decoration: none;
 }
 
-a:hover {
+.assignment a:hover {
     color: #cf7944 ;
 }
